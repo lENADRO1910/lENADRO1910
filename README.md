@@ -71,12 +71,12 @@ let doctrine = [
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeandroPG19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=LeandroPG19&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeandroPG19&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="98%" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroPG19&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="40%" />
+<img src="https://streak-stats.demolab.com?user=LeandroPG19&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=LeandroPG19&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8&margin-h=8" width="49%" />
 
 </div>
 
