@@ -1,3 +1,5 @@
+<img src="zeref.gif" width="280" align="right" />
+
 # ⚡ Leandro Pérez
 ### Lead SRE & AI Systems Architect | Multi-Agent Orchestration Expert
 
