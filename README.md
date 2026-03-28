@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="zeref.gif" width="200" />
+<img src="zeref.gif" width="480" />
 
 <br />
 
